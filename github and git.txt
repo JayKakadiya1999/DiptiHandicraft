@@ -1,0 +1,33 @@
+github password :-> Jay@@1999
+
+video link :-> https://youtu.be/G14WMD8Kg3U
+
+ssh :->
+git@github.com:JayKakadiya1999/DiptiHandicraft.git
+
+https://github.com/JayKakadiya1999/DiptiHandicraft.git
+
+1.$ git config --global user.name "Jay"
+
+2.$ git config --global user.email "jaykakadiya1999@gmail.com"
+
+3.$ touch .gitignore //optional
+
+4.git init
+
+5.git add .
+
+6.git commit -m "initial commit"
+
+7.$ git status //optional
+On branch master
+nothing to commit, working tree clean
+
+8.$ git remote add origin git@github.com:JayKakadiya1999/DiptiHandicraft.git    //ssh link
+
+generate the ssh key //show video
+
+9.$ $ ssh-keygen -t ed25519 -C "jaykakadiya1999@gmail.com"
+
+
+10.$ git push origin master
